@@ -1,6 +1,3 @@
-#library(tidyverse)
-#library(here)
-
 # Builds the cleaned NLSY97 dataset on incarceration status for analysis
 # Read the colwise and rowwise vignettes carefully to understand this code.
 # vignette("colwise")
