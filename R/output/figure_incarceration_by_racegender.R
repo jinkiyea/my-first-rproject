@@ -1,4 +1,4 @@
-# Builds a bar graph with total arrests on the y axis and race/gender on the
+# Builds a bar graph with total incarceration on the y axis and race/gender on the
 # x axis. Refer to my presentation on graphing for more detail.
 
 read_csv(here("data/NLSY97_clean.csv")) %>%
